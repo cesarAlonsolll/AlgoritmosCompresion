@@ -1,0 +1,5 @@
+Este archivo contiene el mensaje a ser comprimido. Viva redes 2!
+Esta es la segunda linea. Viva el profe!
+Esta sería la tercer linea, y aún quedaría muuuuucho camino por recorrer. Viva yo!
+Esta sería la cuarta linea, no se me ocurre que más decir. Viva la vida!.
+Esta sería la quinta y última linea, por que no tengo mucha idea de que más escribir en este archivo, así que la dejaré hasta aqui. Viva!
